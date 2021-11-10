@@ -1,0 +1,9 @@
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Release\IntroNN.exe.config
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Release\IntroNN.exe
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Release\IntroNN.pdb
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.Form1.resources
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.Properties.Resources.resources
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.csproj.GenerateResource.cache
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.csproj.CoreCompileInputs.cache
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.exe
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Release\IntroNN.pdb

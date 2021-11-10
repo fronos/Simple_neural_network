@@ -1,0 +1,19 @@
+C:\Users\raige\source\repos\IntroNN\IntroNN\bin\Debug\IntroNN.exe.config
+C:\Users\raige\source\repos\IntroNN\IntroNN\bin\Debug\IntroNN.exe
+C:\Users\raige\source\repos\IntroNN\IntroNN\bin\Debug\IntroNN.pdb
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.Form1.resources
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.Properties.Resources.resources
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.csproj.GenerateResource.cache
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.csproj.CoreCompileInputs.cache
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.exe
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.pdb
+C:\Users\raige\source\repos\IntroNN\IntroNN\obj\Debug\IntroNN.csprojAssemblyReference.cache
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Debug\IntroNN.exe.config
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Debug\IntroNN.exe
+Q:\MU\Code\Simple perceptron\IntroNN\bin\Debug\IntroNN.pdb
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.Form1.resources
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.Properties.Resources.resources
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.csproj.GenerateResource.cache
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.csproj.CoreCompileInputs.cache
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.exe
+Q:\MU\Code\Simple perceptron\IntroNN\obj\Debug\IntroNN.pdb
